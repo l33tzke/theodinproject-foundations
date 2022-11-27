@@ -9,3 +9,15 @@ No guarantee is given. In fact, it is not expected that anyone will actually eve
 If you are reading this, chances are  you're either checking my profile, or looking for resources on your own journey with The Odin Project.
 
 In both cases, you are **highly encouraged** to get in touch either here, or via any other channel (links will be on my profile).
+
+## Foundations HTML
+
+Contains a very basic example of foundational HTML elements such as headers, paragraph, as well as the boilerplate code used in any HTML page.
+
+## Odin Links and Images
+
+Explores the links between pages, inclusion of an image the alternate text attribute for images.
+
+## Odin Recipes
+
+Contains the work in progress for the The Odin Project's first actual project: [Recipes](https://www.theodinproject.com/lessons/foundations-recipes).
