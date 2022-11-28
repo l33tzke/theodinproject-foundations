@@ -1,0 +1,16 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+    background-color: oldlace;
+    padding: 40px;
+}
+img {
+    height: 300px;
+    width: auto;
+}
+p a {
+    text-decoration: none;
+    font-weight: bold;
+}
